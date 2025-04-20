@@ -1,0 +1,89 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+a{
+  list-style: none;
+}
+.conatiner-3{
+  background-image: url('img-cp/wall.jpeg');
+}
+.xy-1 {
+  background-image: url('img-cp/bg-image.jpg');
+}
+.xy-2{
+color: #fff;
+font-size: 18px;
+font-weight: bold;
+padding: 10%;
+}
+.xy-3{
+  font-size: 24px;
+  font-weight: 700;
+}
+.xy-4 img{
+  margin-top: 1%;
+  border-radius: 12px;
+  margin-bottom: 3%;
+}
+.xy-5{
+  padding:3%;
+}
+.xy-6{
+  padding:5px;
+}
+.xy-7{
+  background-color:rgb(229, 229, 229);
+  padding-bottom: 3%;
+}
+.xy-8{
+ padding-top: 3%;
+ font-size: 24px;
+ font-weight: bold;
+}
+.xy-9{
+  font-size: 18px;
+  font-weight:500;
+  padding-bottom: 1.5%;
+}
+.xy-10{
+  font-size: 24px;
+  font-weight: 700;
+  padding-top: 10px;
+  padding-right: 10px;
+}
+.xy-11{
+  padding-top: 4%;
+  width: 40%;
+  font-size: 30px;
+  font-weight: 700;
+}
+.container-2{
+  padding-top: 3%;
+  align-items: center;
+  text-align: center;
+}
+.container-3{
+  display: flex;
+  align-items: center;
+  justify-content:center ;
+}
+.co-1 img{
+width: 24%;
+}
+.ll-1{
+  font-weight: bold;
+  font-size: 18px;
+  padding-top: 10px;
+}
+
+.form{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.container-5{
+  display: flex;
+  align-items: center;
+  justify-self: center;
+}
